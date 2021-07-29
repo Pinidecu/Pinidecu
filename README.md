@@ -1,5 +1,6 @@
 ### Hola!! Soy Ezequiel 👋
-![ezequiel de cunto (1)](https://user-images.githubusercontent.com/81783347/127525188-d78f8889-4088-4e55-adb8-f7a21066ec5e.png)
+![Banner GitHub](https://user-images.githubusercontent.com/81783347/127526033-41676fb9-a4d4-4abe-95f6-351789521553.png)
+
 
 
 <!--
