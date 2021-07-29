@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hola!! Soy Ezequiel 👋
+![ezequiel de cunto (1)](https://user-images.githubusercontent.com/81783347/127525188-d78f8889-4088-4e55-adb8-f7a21066ec5e.png)
+
 
 <!--
 **Pinidecu/Pinidecu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
